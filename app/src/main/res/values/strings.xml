@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CS2450MemoryGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_board_selector">Board Selector</string>
+    <string name="title_activity_game">Memory Match</string>
+    <string name="game_screen_intro">Memory Match Game</string>
+    <string name="game_title">Match Game!</string>
+    <string name="title_image">Number Match</string>
+    <string name="authored_by">By: Team of 2</string>
+    <string name="name_entry_title">New High Score!</string>
+    <string name="title_highscore">Highscores</string>
+
+</resources>
