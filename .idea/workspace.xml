@@ -100,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/GameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7172">
-              <caret line="428" column="5" lean-forward="true" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
+            <state relative-caret-position="542">
+              <caret line="428" column="5" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
               <folding>
                 <element signature="e#0#437#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -126,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/HighscoreActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-459">
+            <state relative-caret-position="-461">
               <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding>
                 <element signature="e#0#381#0" expanded="true" />
@@ -152,7 +152,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/MenuActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="-308">
               <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <element signature="e#0#407#0" expanded="true" />
@@ -165,9 +165,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/NameEntryFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
               <folding>
+                <element signature="e#0#367#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -205,7 +206,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/AudioPlayer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/Highscore.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/Card.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/NameEntryFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/GameActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/MenuActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/BoardActivity.java" />
@@ -214,6 +214,7 @@
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/gary/memorygame/BuildConfig.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/NameEntryFragment.java" />
       </list>
     </option>
   </component>
@@ -230,8 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -371,27 +370,14 @@
           <expand>
             <path>
               <item name="CS2450MemoryGame" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CS2450MemoryGame" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="CS2450MemoryGame" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="memorygame" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS2450MemoryGame" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -505,9 +491,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1573971" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1573971" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -521,7 +508,7 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49965683" weight="0.44029075" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50034314" side_tool="true" weight="0.2318339" />
-      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.49965683" weight="0.19314642" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.49965683" visible="true" weight="0.19314642" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3281412" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32917964" />
@@ -731,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/GameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7172">
-          <caret line="428" column="5" lean-forward="true" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
+        <state relative-caret-position="542">
+          <caret line="428" column="5" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
           <folding>
             <element signature="e#0#437#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -753,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/HighscoreActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
+        <state relative-caret-position="-461">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="e#0#381#0" expanded="true" />
@@ -775,7 +762,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/MenuActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="-308">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="e#0#407#0" expanded="true" />
@@ -786,9 +773,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/gary/memorygame/NameEntryFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
           <folding>
+            <element signature="e#0#367#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
