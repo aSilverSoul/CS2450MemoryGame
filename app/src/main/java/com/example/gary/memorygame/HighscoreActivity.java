@@ -1,6 +1,6 @@
 /***************************************************************
  * file: HighscoreActivity.java
- * author: Gary Machorro, Preet
+ * author: Gary Machorro, Jaskaranpreet Sidhu
  * class: CS 2450 – Programming Graphical User Interfaces
  *
  * assignment: Project 2
